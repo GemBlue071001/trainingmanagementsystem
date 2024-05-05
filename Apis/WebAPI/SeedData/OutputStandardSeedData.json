@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Code": "OS-001",
+    "Title": "Standard Output 1",
+    "Description": "This is the first output standard.",
+    "CreatedOn": "2022-05-01T09:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": 2,
+    "Code": "OS-002",
+    "Title": "Standard Output 2",
+    "Description": "This is the second output standard.",
+    "CreatedOn": "2022-05-02T09:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": 3,
+    "Code": "OS-003",
+    "Title": "Standard Output 3",
+    "Description": "This is the third output standard.",
+    "CreatedOn": "2022-05-03T09:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": 4,
+    "Code": "OS-004",
+    "Title": "Standard Output 4",
+    "Description": "This is the fourth output standard.",
+    "CreatedOn": "2022-05-04T09:00:00Z",
+    "IsDeleted": false
+  },
+  {
+    "Id": 5,
+    "Code": "OS-005",
+    "Title": "Standard Output 5",
+    "Description": "This is the fifth output standard.",
+    "CreatedOn": "2022-05-05T09:00:00Z",
+    "IsDeleted": false
+  }
+]

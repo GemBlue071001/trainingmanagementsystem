@@ -1,0 +1,102 @@
+[
+  {
+    "TrainingProgramId": 1,
+    "SyllabusId": 7,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 3,
+    "SyllabusId": 7,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 10,
+    "SyllabusId": 8,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 5,
+    "SyllabusId": 8,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 10,
+    "SyllabusId": 7,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 10,
+    "SyllabusId": 6,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 4,
+    "SyllabusId": 1,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 8,
+    "SyllabusId": 8,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 2,
+    "SyllabusId": 6,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 10,
+    "SyllabusId": 9,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 7,
+    "SyllabusId": 4,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 3,
+    "SyllabusId": 3,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 9,
+    "SyllabusId": 1,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 2,
+    "SyllabusId": 10,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 8,
+    "SyllabusId": 4,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 3,
+    "SyllabusId": 9,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 1,
+    "SyllabusId": 3,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 8,
+    "SyllabusId": 3,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 4,
+    "SyllabusId": 6,
+    "Status": 1
+  },
+  {
+    "TrainingProgramId": 5,
+    "SyllabusId": 9,
+    "Status": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 1,
+    "Name": "Lupinus chamissonis Eschsch.",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 0,
+    "DeliveryType": 0,
+    "OutputStandardId": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Jamesia americana Torr. & A. Gray var. macrocalyx (Small) Engl.",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 0,
+    "DeliveryType": 1,
+    "OutputStandardId": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Dasylirion leiophyllum Engelm. ex Trel.",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 0,
+    "DeliveryType": 4,
+    "OutputStandardId": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Rayjacksonia phyllocephala (DC.) R.L. Hartm. & M.A. Lane",
+    "Duration": 60,
+    "UnitId": 2,
+    "LessonType": 1,
+    "DeliveryType": 4,
+    "OutputStandardId": 4
+  },
+  {
+    "Id": 5,
+    "Name": "Coccotrema Müll. Arg.",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 1,
+    "DeliveryType": 4,
+    "OutputStandardId": 5
+  },
+  {
+    "Id": 6,
+    "Name": "Rubus ulmifolius Schott",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 1,
+    "DeliveryType": 5,
+    "OutputStandardId": 6
+  },
+  {
+    "Id": 7,
+    "Name": "Pseudolmedia Trécul",
+    "Duration": 60,
+    "UnitId": 1,
+    "LessonType": 1,
+    "DeliveryType": 0,
+    "OutputStandardId": 7
+  },
+  {
+    "Id": 8,
+    "Name": "Alchemilla wichurae (Buser) Stefansson",
+    "Duration": 60,
+    "UnitId": 2,
+    "LessonType": 1,
+    "DeliveryType": 5,
+    "OutputStandardId": 8
+  }
+]

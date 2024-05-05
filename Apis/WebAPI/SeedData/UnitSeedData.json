@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Name": "Gembucket",
+    "Day": 1,
+    "SyllabusId": 1,
+    "SortOrder": 1
+  },
+  {
+    "Id": 2,
+    "Name": "Daltfresh",
+    "Day": 2,
+    "SyllabusId": 1,
+    "SortOrder": 2
+  },
+  {
+    "Id": 3,
+    "Name": "Asoka",
+    "Day": 3,
+    "SyllabusId": 1,
+    "SortOrder": 3
+  },
+  {
+    "Id": 4,
+    "Name": "Treeflex",
+    "Day": 4,
+    "SyllabusId": 1,
+    "SortOrder": 4
+  },
+  {
+    "Id": 5,
+    "Name": "It",
+    "Day": 1,
+    "SyllabusId": 2,
+    "SortOrder": 1
+  },
+  {
+    "Id": 6,
+    "Name": "Gembucket",
+    "Day": 2,
+    "SyllabusId": 2,
+    "SortOrder": 2
+  },
+  {
+    "Id": 7,
+    "Name": "Bitwolf",
+    "Day": 3,
+    "SyllabusId": 2,
+    "SortOrder": 3
+  },
+  {
+    "Id": 8,
+    "Name": "Treeflex",
+    "Day": 4,
+    "SyllabusId": 2,
+    "SortOrder": 4
+  }
+]

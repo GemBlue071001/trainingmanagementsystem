@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "BuildingLocation": "Subin",
+    "City": 0,
+    "Room": "Meeveo"
+  },
+  {
+    "Id": 2,
+    "BuildingLocation": "Stronghold",
+    "City": 0,
+    "Room": "Photobug"
+  },
+  {
+    "Id": 3,
+    "BuildingLocation": "Subin",
+    "City": 0,
+    "Room": "Eare"
+  },
+  {
+    "Id": 4,
+    "BuildingLocation": "Greenlam",
+    "City": 0,
+    "Room": "Dablist"
+  },
+  {
+    "Id": 5,
+    "BuildingLocation": "Zoolab",
+    "City": 0,
+    "Room": "Jetpulse"
+  }
+]
