@@ -20,6 +20,8 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseAuthorization();
+    app.UseSwaggerUI();
+    app.UseSwaggerUI();
 }
 // Configure the HTTP request pipeline.
  
